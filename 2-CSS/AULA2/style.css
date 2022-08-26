@@ -1,0 +1,12 @@
+body {
+    /*rgb é: r= red a quantidade de misturas de vermelho que terá.
+      g= green a quantidade de misturas de verde que terá.
+      b= blue a quantidade de misturas de azul que terá.
+    */
+    background-color: #dfdfdf;
+}
+ 
+p {
+    color: #222222;
+}
+/*site para converter a cor para rgb: hex to RGB color converter*/

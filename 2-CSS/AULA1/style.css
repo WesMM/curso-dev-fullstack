@@ -1,0 +1,17 @@
+body {
+    /*backgound é para adicionar cor de fundo para alguma coisa*/
+    background-color: rgb(169, 157, 157);
+}  
+/*color é para alterar a cor de algum texto */
+h3 {
+    /*estilizar utilizando as tags body e h3*/
+    color: red;
+}
+/*estilizar com classes*/
+.foto-principal {
+    width: 200px;
+}
+/*estilizar com id*/
+#titulo-principal {
+    color: blue;
+}

@@ -1,0 +1,23 @@
+body {
+    /*rgb é: r= red a quantidade de misturas de vermelho que terá.
+      g= green a quantidade de misturas de verde que terá.
+      b= blue a quantidade de misturas de azul que terá.
+    */
+    background-color: #dfdfdf;
+}
+ 
+p {
+  /*site para converter a cor para rgb: hex to RGB color converter*/
+    color: rgb(34,34,34);
+}
+
+.foto-principal {
+  width: 200px;
+  border: 2px solid #ffffff; /* shorthand*/
+  border-radius: 100%;
+  /*
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+  */
+}
